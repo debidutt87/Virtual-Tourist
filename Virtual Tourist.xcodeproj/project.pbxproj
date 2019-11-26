@@ -101,14 +101,12 @@
 		E58A7DF9238CE054009E2E74 /* Virtual Tourist */ = {
 			isa = PBXGroup;
 			children = (
+				E58A7E2F238CE723009E2E74 /* Controller */,
+				E58A7E2E238CE713009E2E74 /* Model */,
+				E58A7E2D238CE6F7009E2E74 /* View */,
 				E58A7DFA238CE054009E2E74 /* AppDelegate.swift */,
 				E58A7DFC238CE054009E2E74 /* SceneDelegate.swift */,
-				E58A7DFE238CE054009E2E74 /* ViewController.swift */,
-				E58A7E00238CE054009E2E74 /* Main.storyboard */,
-				E58A7E06238CE058009E2E74 /* Assets.xcassets */,
-				E58A7E08238CE058009E2E74 /* LaunchScreen.storyboard */,
 				E58A7E0B238CE058009E2E74 /* Info.plist */,
-				E58A7E03238CE054009E2E74 /* Virtual_Tourist.xcdatamodeld */,
 			);
 			path = "Virtual Tourist";
 			sourceTree = "<group>";
@@ -129,6 +127,32 @@
 				E58A7E21238CE058009E2E74 /* Info.plist */,
 			);
 			path = "Virtual TouristUITests";
+			sourceTree = "<group>";
+		};
+		E58A7E2D238CE6F7009E2E74 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E58A7E00238CE054009E2E74 /* Main.storyboard */,
+				E58A7E06238CE058009E2E74 /* Assets.xcassets */,
+				E58A7E08238CE058009E2E74 /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E58A7E2E238CE713009E2E74 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E58A7E03238CE054009E2E74 /* Virtual_Tourist.xcdatamodeld */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E58A7E2F238CE723009E2E74 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E58A7DFE238CE054009E2E74 /* ViewController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
