@@ -30,11 +30,13 @@ extension FlickrService {
         static let Text = "text"
         static let BoundingBox = "bbox"
         static let Extra = "extras"
+        static let Page = "page"
     }
 
     enum ParameterDefaultValues {
         static let Format = "json"
         static let NoJsonCallback = "1"
         static let ExtraMediumURL = "url_m"
+        static let PageNumber = String(arc4random())
     }
 }

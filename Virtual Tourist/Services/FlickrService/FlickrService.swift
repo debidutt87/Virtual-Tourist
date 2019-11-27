@@ -91,8 +91,9 @@ class FlickrService: FlickrServiceProtocol {
             ParameterKeys.Format: ParameterDefaultValues.Format,
             ParameterKeys.NoJsonCallback: ParameterDefaultValues.NoJsonCallback,
             ParameterKeys.Method: Methods.PhotosSearch,
-            ParameterKeys.Extra: ParameterDefaultValues.ExtraMediumURL
-        ]
+            ParameterKeys.Extra: ParameterDefaultValues.ExtraMediumURL,
+            ParameterKeys.Page: ParameterDefaultValues.PageNumber
+            ] 
 
         if let locationName = pin.placeName {
             parameters[ParameterKeys.Text] = locationName
