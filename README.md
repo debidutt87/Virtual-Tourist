@@ -9,9 +9,16 @@ The Virtual Tourist app downloads and stores images from Flickr. The app allows 
 
 
 ## Screenshots
-![image](App Icon Screenshot.png)![image]![image]![image]![image]![image]![image]
+<p align="center">
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+</p>
 
-
+&nbsp;
 ## Features
 
 - [x] Persisting state on the device.
