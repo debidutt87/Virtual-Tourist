@@ -7,6 +7,11 @@
 ## Project Overview
 The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the associated pictures with the pin.
 
+
+## Screenshots
+![image](App Icon Screenshot.png)![image]![image]![image]![image]![image]![image]
+
+
 ## Features
 
 - [x] Persisting state on the device.
@@ -20,7 +25,9 @@ The Virtual Tourist app downloads and stores images from Flickr. The app allows 
 - Xcode 11
 
 ## Installation
-Download and unzip ```VirtualTourist.zip```. or use the following command on your termincal ```git clone https://github.com/debidutt87/Virtual-Tourist.git```
+Download and unzip ```VirtualTourist.zip```. 
+or
+use the following command on your terminal ```git clone https://github.com/debidutt87/Virtual-Tourist.git```
 
 
 ## How to use this app
