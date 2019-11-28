@@ -10,12 +10,11 @@ The Virtual Tourist app downloads and stores images from Flickr. The app allows 
 
 ## Screenshots
 <p align="center">
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-28%20at%2001.15.15.png" height="500" widht="500"/>
+  <img src="./screenshots/app icon screen.png" height="500" widht="500"/>
+  <img src="./screenshots/add pin.png" height="500" widht="500"/>
+  <img src="./screenshots/edit pin name.png" height="500" widht="500"/>
+  <img src="./screenshots/image tagged to place.png" height="500" widht="500"/>
+  <img src="./screenshots/long press place.png" height="500" widht="500"/>
 </p>
 
 &nbsp;
